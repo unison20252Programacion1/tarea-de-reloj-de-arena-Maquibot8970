@@ -35,6 +35,7 @@ def main():
         print("Error: La altura debe ser un numero entero)
 
     # TODO: llamar a la función triangulo_simetrico con los parámetros m y s
+    # ERRATA: llamar a la función reloj_arena con los parámetros m y s.
 
 if __name__ == "__main__":
     main()
